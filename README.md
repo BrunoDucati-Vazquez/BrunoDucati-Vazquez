@@ -1,4 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20Ducati&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20AWS%20%7C%20Java%20Spring%20Boot%20%7C%20Python%20Flask%20%26%20Django%20%7C%20CI%2FCD&descAlignY=58&descSize=16"/>
+<div align="center">
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#headerGrad)"/>
+  <path d="M0,160 C150,100 350,180 600,140 C850,100 1050,160 1200,120 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.05)"/>
+  <path d="M0,175 C200,130 400,170 600,150 C800,130 1000,165 1200,145 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.04)"/>
+  <text x="600" y="95" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Bruno Ducati</text>
+  <text x="600" y="135" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="middle">Software Engineer | AWS | Java Spring Boot | Python Flask &amp; Django | CI/CD</text>
+</svg>
+</div>
 
 <div align="center">
 
@@ -146,4 +161,17 @@ Open to conversations about **Software Engineering**, **Data Engineering**, **Az
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align="center">
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#footerGrad)"/>
+  <path d="M0,40 C150,80 350,20 600,60 C850,100 1050,30 1200,55 L1200,0 L0,0 Z" fill="rgba(255,255,255,0.05)"/>
+  <path d="M0,25 C200,65 400,15 600,45 C800,75 1000,20 1200,40 L1200,0 L0,0 Z" fill="rgba(255,255,255,0.04)"/>
+</svg>
+</div>
