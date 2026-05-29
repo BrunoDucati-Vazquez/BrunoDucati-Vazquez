@@ -1,21 +1,4 @@
 <div align="center">
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="200" fill="url(#headerGrad)"/>
-  <path d="M0,160 C150,100 350,180 600,140 C850,100 1050,160 1200,120 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.05)"/>
-  <path d="M0,175 C200,130 400,170 600,150 C800,130 1000,165 1200,145 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.04)"/>
-  <text x="600" y="95" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Bruno Ducati</text>
-  <text x="600" y="135" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.85)" text-anchor="middle">Software Engineer | AWS | Java Spring Boot | Python Flask &amp; Django | CI/CD</text>
-</svg>
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ducati-vazquez-99824a20a/?locale=en-US)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bducativazquez@gmail.com)
