@@ -13,11 +13,9 @@
 
 > *"Driving impactful data solutions through automation, engineering, and a passion for continuous learning."*
 
-I'm a **Software Engineer** based in São Paulo, Brazil, with hands-on experience building end-to-end data pipelines on **Azure**, designing **REST APIs**, and engineering Medallion Lakehouse architectures. I thrive in Agile environments and take pride in delivering clean, reliable, scalable data solutions that directly improve business outcomes.
+I'm a **Software Engineer** based in São Paulo, Brazil, with hands-on experience designing **REST APIs**, building scalable backend systems, and delivering automation solutions on **Azure**. I thrive in Agile environments and take pride in delivering clean, reliable software that directly improves business outcomes.
 
 - 🏭 Currently working at **Voxxel Consultoria de Sistemas** as a Software Engineer
-- ☁️ Focused on the **Azure Data Engineering** ecosystem: Databricks, Synapse, Delta Lake, dbt
-- 🔁 Experienced with **ETL/ELT pipelines**, Medallion Architecture (Bronze/Silver/Gold), and Star Schema modeling
 - 📐 Strong background in **REST API development** (Python & Java) and **workflow automation**
 - 🎓 B.Sc. Computer Science — **Centro Universitário FEI**
 - 🌍 Languages: **Portuguese** (Native) | **English** (Proficient)
@@ -26,26 +24,39 @@ I'm a **Software Engineer** based in São Paulo, Brazil, with hands-on experienc
 
 ## 🛠️ Tech Stack
 
-### ☁️ Data Engineering & Cloud
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
-![Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
 ### 🐍 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### ⚙️ Tools & Practices
+### ⚙️ Backend & APIs
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2%2FJWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🐳 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🔧 Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
@@ -135,26 +146,9 @@ Real-time data ingestion pipeline with reliable, reprocessable transformations a
 
 ### 📬 Let's Build Something Great Together
 
-Open to conversations about **Software Engineering**, **Data Engineering**, **Azure cloud architecture**, **pipeline design**, or exciting new opportunities.
+Open to conversations about **Software Engineering**, **Backend Development**, **Azure cloud architecture**, **API design**, or exciting new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ducati-vazquez-99824a20a/?locale=en-US)
 [![Email](https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bducativazquez@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="120" fill="url(#footerGrad)"/>
-  <path d="M0,40 C150,80 350,20 600,60 C850,100 1050,30 1200,55 L1200,0 L0,0 Z" fill="rgba(255,255,255,0.05)"/>
-  <path d="M0,25 C200,65 400,15 600,45 C800,75 1000,20 1200,40 L1200,0 L0,0 Z" fill="rgba(255,255,255,0.04)"/>
-</svg>
 </div>
