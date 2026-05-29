@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20Ducati&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Junior%20Data%20Engineer%20%7C%20Azure%20%7C%20PySpark%20%7C%20Databricks%20%7C%20dbt&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20Ducati&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20AWS%20%7C%20Java%20Spring%20Boot%20%7C%20Python%20Flask%20%26%20Django%20%7C%20CI%2FCD&descAlignY=58&descSize=16"/>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 > *"Driving impactful data solutions through automation, engineering, and a passion for continuous learning."*
 
-I'm a **Junior Data Engineer** based in São Paulo, Brazil, with hands-on experience building end-to-end data pipelines on **Azure**, designing **REST APIs**, and engineering Medallion Lakehouse architectures. I thrive in Agile environments and take pride in delivering clean, reliable, scalable data solutions that directly improve business outcomes.
+I'm a **Software Engineer** based in São Paulo, Brazil, with hands-on experience building end-to-end data pipelines on **Azure**, designing **REST APIs**, and engineering Medallion Lakehouse architectures. I thrive in Agile environments and take pride in delivering clean, reliable, scalable data solutions that directly improve business outcomes.
 
 - 🏭 Currently working at **Voxxel Consultoria de Sistemas** as a Software Engineer
 - ☁️ Focused on the **Azure Data Engineering** ecosystem: Databricks, Synapse, Delta Lake, dbt
@@ -137,7 +137,7 @@ Real-time data ingestion pipeline with reliable, reprocessable transformations a
 
 ### 📬 Let's Build Something Great Together
 
-Open to conversations about **Data Engineering**, **Azure cloud architecture**, **pipeline design**, or exciting new opportunities.
+Open to conversations about **Software Engineering**, **Data Engineering**, **Azure cloud architecture**, **pipeline design**, or exciting new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ducati-vazquez-99824a20a/?locale=en-US)
 [![Email](https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bducativazquez@gmail.com)
